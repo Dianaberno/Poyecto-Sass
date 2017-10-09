@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  /*outline: solid rebeccapurple;*/ }
+
+body {
+  /*overflow: hidden;*/
+  font-size: 17px; }
+
+#titulo {
+  color: white;
+  background: #fdc15a; }
+
+#inicio {
+  overflow: hidden; }
+
+.one {
+  background: gray;
+  height: 50px;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 10px; }
+
+.two {
+  background: gray;
+  height: 50px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.three {
+  background: gray;
+  height: 50px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.four {
+  background: gray;
+  height: 50px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+#parrafo {
+  margin-top: 70px;
+  color: black; }
+
+#parrafo h1 {
+  font-weight: 100; }
+
+#parrafo li {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+#instrucciones {
+  color: white;
+  background: gray;
+  height: 100%;
+  width: 95%;
+  margin: auto; }
+
+#parrafo h1 {
+  font-weight: 100;
+  text-align: center; }
+
+#parrafo li {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+#pie {
+  color: white;
+  background: gray;
+  margin-top: 10px;
+  height: 50px;
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
